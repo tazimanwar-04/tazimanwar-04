@@ -15,17 +15,15 @@ I focus on:
 - Business Insight Generation
 - Visualization using Matplotlib & Seaborn
 
----
 
 ##  Featured Projects
 🔹 E-Commerce Sales Data Analysis  
 🔹 Deepfake Voice Detection System  
 🔹 Stock Data Visualization Project  
 
----
 
 ##  Connect With Me
 Email: tajimanwar04@gmail.com  
 https://www.linkedin.com/in/tazimanwar04
----
+
 Always learning. Always building.
