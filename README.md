@@ -26,7 +26,6 @@ I focus on:
 
 ##  Connect With Me
 Email: tajimanwar04@gmail.com  
-LinkedIn: (Add your LinkedIn link here)
-
+https://www.linkedin.com/in/tazimanwar04
 ---
 Always learning. Always building.
